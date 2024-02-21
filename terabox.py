@@ -17,7 +17,7 @@ from telebot.types import InlineKeyboardMarkup,InlineKeyboardButton
 import telebot
 from telebot import util
 
-auth='6445662081:AAEYT9aypAbm1qcX5UXgI7GIxc3vXGoNBEI'
+auth='6819695620:AAHpNgX852w0MktEN8fFGWd4RzW3PtMoOTY'
 bot = telebot.TeleBot(auth)
 #bot.worker_pool = util.ThreadPool(bot ,num_threads=8)
  
